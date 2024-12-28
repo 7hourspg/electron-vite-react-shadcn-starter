@@ -2,7 +2,8 @@
 
 A modern and beautiful Electron starter template supercharged with Vite, React, TypeScript, Tailwind CSS, Shadcn UI, Framer Motion, and theme support.
 
-![Preview](./preview.png)
+![Screenshot from 2024-12-28 17-31-57](https://github.com/user-attachments/assets/bca9ddc5-e879-45b7-a5a0-ffe128d84029)
+
 
 ## ✨ Features
 
