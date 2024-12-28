@@ -63,7 +63,7 @@ function App(): JSX.Element {
   const quickStart = [
     {
       step: 'Clone the repository and install dependencies',
-      command: 'git clone https://github.com/your-repo.git && cd your-repo && npm install'
+      command: 'https://github.com/7hourspg/electron-vite-react-shadcn-starter && cd your-repo && npm install'
     },
     { step: 'Run the development server', command: 'npm run dev' },
     { step: 'Start building your app!', command: 'Open src/App.tsx and start coding!' }
@@ -81,7 +81,7 @@ function App(): JSX.Element {
       icon: <GitHubLogoIcon className="w-8 h-8" />,
       title: 'GitHub',
       description: 'Explore the source code, contribute, and stay updated',
-      link: 'https://github.com/alex8088/electron-vite',
+      link: 'https://github.com/7hourspg/electron-vite-react-shadcn-starter',
       buttonText: 'View on GitHub'
     },
     {
